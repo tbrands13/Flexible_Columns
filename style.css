@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+    background-color: dodgerblue;
+    padding: 24px;
+    margin: 8px;
+}
+
+.col-2 {
+    flex: 2;
+    background-color: darkgrey;
+    padding: 24px;
+    margin: 8px;
+}
